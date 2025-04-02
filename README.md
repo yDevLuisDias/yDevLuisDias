@@ -8,15 +8,15 @@
 ---
 
 ## 🌱 **Interesses & Habilidades**  
-- 🖥️ **Back-end & Front-end** (Explorando todas as camadas da programação)  
+- 🖥️ **Back-end** (Explorando a programação)  
 - 📖 **Leitura** (Tecnologia, Filosofia e Produtividade)  
 - 🤝 **Colaboração** (Adoro trabalhar em equipe e trocar ideias)  
 
 ---
 
 ## 🛠️ **Tecnologias & Ferramentas**  
-🔹 **Linguagens**: JavaScript, Java, C/C++    
-🔹 **Ferramentas**: Git, VS Code, Docker 
+🔹 **Linguagens**: Java, C/C++    
+🔹 **Ferramentas**: Git, Code::Blocks
 
 ---
 
