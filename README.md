@@ -16,7 +16,7 @@
 
 ## 🛠️ **Tecnologias & Ferramentas**  
 🔹 **Linguagens**: Java, C/C++    
-🔹 **Ferramentas**: Git, Code::Blocks
+🔹 **Ferramentas**: Git, Code::Blocks, ItelliJ  IDEA
 
 ---
 
