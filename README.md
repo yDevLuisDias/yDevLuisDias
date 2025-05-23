@@ -22,7 +22,7 @@
 
 ## 📫 **Como me encontrar**  
 📧 **E-mail**: luiscosta.official@gmail.com
-🔗 **LinkedIn**: https://www.linkedin.com/in/luis-henrique-255ab6213/  
+🔗 **LinkedIn**: http://linkedin.com/in/luisdevhenrique 
 ### *"A tecnologia do futuro será a piada do amanhã."*  
 
 💻 **Desenvolvedor em Constante Evolução**
