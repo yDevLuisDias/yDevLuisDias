@@ -15,14 +15,14 @@
 ---
 
 ## 🛠️ **Tecnologias & Ferramentas**  
-🔹 **Linguagens**: Java, C/C++    
-🔹 **Ferramentas**: Git, Code::Blocks, ItelliJ  IDEA
+🔹 **Linguagens**: Java, C#    
+🔹 **Ferramentas**: Git, SQL, Spring Boot, .Net
 
 ---
 
 ## 📫 **Como me encontrar**  
-📧 **E-mail**: [luiscosta.official@gmail.com] 
-🔗 **LinkedIn**: [ https://www.linkedin.com/in/luis-henrique-255ab6213/ ]  
+📧 **E-mail**: luiscosta.official@gmail.com
+🔗 **LinkedIn**: https://www.linkedin.com/in/luis-henrique-255ab6213/  
 ### *"A tecnologia do futuro será a piada do amanhã."*  
 
 💻 **Desenvolvedor em Constante Evolução**
