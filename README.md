@@ -28,7 +28,9 @@
 ### *"A tecnologia do futuro será a piada do amanhã."*  
 
 💻 **Desenvolvedor em Constante Evolução**
+
 📚 **Apaixonado por Tecnologia & Desenvolvimento Pessoal**
+
 🚀 **Transformando linhas de código em soluções criativas**  
 
 ---
