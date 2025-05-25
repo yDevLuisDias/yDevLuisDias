@@ -38,8 +38,3 @@
 ## ⚡ **Fun Fact** 
 "Daqui 100 anos, vão rir da gente dizendo: 'Vocês usavam *teclado* para programar? 😂'" 
 
----
-
-### **Vamos conversar!  
-💬 Seja para discutir um projeto, recomendar um livro  
-
