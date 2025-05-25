@@ -18,6 +18,8 @@
 🔹 **Linguagens**: Java, C#    
 🔹 **Ferramentas**: Git, SQL, Spring Boot, .Net
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yDevLuisDias&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ---
 
 ## 📫 **Como me encontrar**  
