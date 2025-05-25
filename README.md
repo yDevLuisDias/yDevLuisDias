@@ -28,7 +28,7 @@
 
 ## 📫 **Como me encontrar**  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luiscosta.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-009DF1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisdevhenrique/)
+<a href="https://www.linkedin.com/in/luisdevhenrique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-009DF1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ### *"A tecnologia do futuro será a piada do amanhã."*  
 
 💻 **Desenvolvedor em Constante Evolução**
