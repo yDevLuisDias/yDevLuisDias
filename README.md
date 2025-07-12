@@ -1,5 +1,5 @@
-# 👋 Olá, eu sou Luis Dias!  
-### *"A tecnologia do futuro será a piada do amanhã."*  
+# 👋 Olá, eu sou Luis Dias! 
+### *"Uma tecnologia do futuro será uma piada do amanhã."*  
 
 💻 **Desenvolvedor em Constante Evolução**  
 📚 **Apaixonado por Tecnologia & Desenvolvimento Pessoal**  
@@ -7,18 +7,18 @@
 
 ---
 
-## 🌱 **Interesses & Habilidades**  
-- 🖥️ **Back-end** (Explorando a programação)  
-- 📖 **Leitura** (Tecnologia, Filosofia e Produtividade)  
-- 🤝 **Colaboração** (Adoro trabalhar em equipe e trocar ideias)  
+## 🌱 **Interesses e Habilidades**  
+- ?? ️ **Back-end** (Explorando uma programação) 
+- 📖 **Leitura** (Tecnologia, Filosofia e Produtividade) 
+- 🤝 **Colaboração** (Adoro trabalhar em equipamento e trocar ideias) 
 
 ---
 
-## 🛠️ **Tecnologias & Ferramentas**  
+## ?? ️ **Tecnologias e Ferramentas**  
 ### **Linguagens**: 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ### **Ferramentas**: 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 	![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-F7EC22?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Primavera](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Pós-gres](https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Base de fogo](https://img.shields.io/badge/firebase-F7EC22?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
 
@@ -26,10 +26,10 @@
 
 ---
 
-## 📫 **Como me encontrar**  
+## 📫 **Como me contrar**  
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luiscosta.official@gmail.com)
-<a href="https://www.linkedin.com/in/luisdevhenrique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-009DF1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-### *"A tecnologia do futuro será a piada do amanhã."*  
+<a href="https://www.linkedin.com/in/luisdevhenrique/" alvo="_em branco"><img src="https://img.shields.io/badge/LinkedIn-009DF1?style=for-the-badge&logotipo=linkedin&logoColor=branco" alt="LinkedIn"></a>
+### *"Uma tecnologia do futuro será uma piada do amanhã."*  
 
 💻 **Desenvolvedor em Constante Evolução**
 
@@ -39,6 +39,6 @@
 
 ---
 
-## ⚡ **Fun Fact** 
-"Daqui 100 anos, vão rir da gente dizendo: 'Vocês usavam *teclado* para programar? 😂'" 
+## ⚡ **Fato divertido** 
+"Daqui 100 anos, vão rir da gente dizendo: 'Vocês usavam *teclado* para programador? 😂'" 
 
