@@ -65,12 +65,6 @@ Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atua
 
 ---
 
-### ⚡ GitHub Stats
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdevhenrique&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdevhenrique&layout=compact&theme=dracula)](https://github.com/luisdevhenrique)
-
----
-
 <div align="center">
   <sub>Feito com ☕ e Linux por Luis Henrique</sub>
 </div>
