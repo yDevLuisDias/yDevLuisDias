@@ -1,57 +1,76 @@
-# 👋 Olá, eu sou Luis Dias!  
+# Olá, eu sou Luis Henrique! 👋
+### Backend Developer | Rumo à Engenharia de Dados & IA
 
-💻 **Desenvolvedor em Constante Evolução**  
-📚 **Apaixonado por Tecnologia, Dados & Inteligência Artificial**  
-🚀 **Transformando linhas de código em soluções criativas e insights baseados em dados**  
-
----
-
-## 🌱 **Áreas de Interesse e Habilidades**
-- 💾 **Engenharia de Dados**: ETL, bancos de dados relacionais e não relacionais, pipelines de dados  
-- 🤖 **Inteligência Artificial e Machine Learning**: pré-processamento de dados, análise de padrões, modelos preditivos  
-- 🖥️ **Desenvolvimento Back-end**: Java, Spring Boot  
-- 📖 **Aprendizado Contínuo**: tecnologia, produtividade e desenvolvimento pessoal  
-- 🤝 **Colaboração**: trabalho em equipe e troca de ideias  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisdevhenrique)](https://www.linkedin.com/in/luisdevhenrique)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscosta.official@gmail.com)](mailto:luiscosta.official@gmail.com)
 
 ---
 
-## 🛠️ **Tecnologias e Ferramentas**
-### **Linguagens**: 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### **Frameworks e Ferramentas**:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+### 🏆 Destaque
+> **Finalista do Programa de Estágio iFood GenAI (2025)**
+> Classificado no **Top 100** entre mais de **20.000 candidatos** (Top 0.5%), destacando-se por competências em lógica, arquitetura de sistemas e inovação com IA.
 
 ---
 
-## 📂 **Projetos**
-- **ETL com Java** – Extração e transformação de dados CSV para SQL  
-- **Análise de Dados com Python** – Uso de Pandas e NumPy para exploração de datasets  
-- *(Em breve: Projetos mais avançados de IA e pipelines de dados)*  
+### 🚀 Sobre Mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre - Unijorge) e um entusiasta do ecossistema **Linux**.
+
+Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atual é resolver problemas complexos usando **Engenharia de Dados** e **Inteligência Artificial**. Gosto de criar arquiteturas que não apenas "funcionam", mas que são escaláveis e bem documentadas.
+
+* 🔭 Atualmente trabalhando em: **Orquestração de Agentes de IA (SaaS)**
+* 🌱 Estudando: **Pipelines de Dados (ETL), Python Avançado e Modelagem de Dados**
+* 🐧 OS Principal: **Linux (Debian/Ubuntu)** - *Ricing enthusiast*
 
 ---
 
-## 📖 **Aprendizado em Andamento**
-- Engenharia de Dados: Data Warehousing, ETL, Data Lakes  
-- Inteligência Artificial: Machine Learning, Processamento de Dados, Modelos Preditivos  
-- Desenvolvimento Back-end: Spring Boot avançado, arquitetura de APIs  
+### 🛠️ Tech Stack
+
+**Linguagens & Scripting**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Backend & Frameworks**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Dados & Infra**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🎯 **Metas de Carreira**
-- Tornar-me **Engenheiro de Dados + IA**, criando soluções escaláveis e eficientes  
-- Aplicar IA e análise de dados para resolver problemas reais  
-- Evoluir como desenvolvedor completo, capaz de transitar entre back-end e ciência de dados  
+### 💡 Projetos em Destaque
+
+#### 🤖 Project Zero (SaaS AI Agent)
+*Um orquestrador de atendimento automatizado via WhatsApp utilizando LLMs.*
+* **O Desafio:** Transformar conversas naturais e desestruturadas em dados de CRM acionáveis.
+* **A Solução:** Pipeline de integração entre API do WhatsApp e modelo **MiniMax m2**. Implementação de **ETL em tempo real** para parsing de JSON e agendamento automático.
+* **Tech:** Python, Webhooks, LLM API, JSON Processing.
+
+#### 🦾 VR Mechanical Arm Controller (P&D)
+*Projeto de pesquisa do NITE (Núcleo de Inovação e Tecnologia).*
+* **O Desafio:** Controlar um braço mecânico físico usando inputs de Realidade Virtual com latência mínima.
+* **A Solução:** Desenvolvimento de lógica de captura de sensores e transmissão de dados via WebSocket.
+* **Tech:** Integração Hardware-Software, C# (Unity), Protocolos de Rede.
+
+#### 🏛️ Fórum Acadêmico de TI
+*Plataforma Full Stack para comunidade universitária.*
+* **Arquitetura:** API RESTful robusta com Spring Security e Banco de Dados Relacional normalizado.
+* **Tech:** Java 21, Spring Boot, PostgreSQL, Vue.js.
 
 ---
 
-## 📫 **Como me encontrar**
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luiscosta.official@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-009DF1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisdevhenrique/)
+### ⚡ GitHub Stats
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdevhenrique&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdevhenrique&layout=compact&theme=dracula)](https://github.com/luisdevhenrique)
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yDevLuisDias&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <sub>Feito com ☕ e Linux por Luis Henrique</sub>
+</div>
