@@ -1,5 +1,5 @@
 # Olá, eu sou Luis Henrique! 👋
-### Backend Developer | Rumo à Engenharia de Dados & IA
+### Desenvolvedor Back-end | Rumo à Engenharia de Dados & IA
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisdevhenrique)](https://www.linkedin.com/in/luisdevhenrique)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscosta.official@gmail.com)](mailto:luiscosta.official@gmail.com)
@@ -13,13 +13,15 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (2º Semestre - Unijorge) e um entusiasta do ecossistema **Linux**.
+Sou estudante do **3º Semestre de Análise e Desenvolvimento de Sistemas** (Unijorge) e um entusiasta do ecossistema **Linux**. 
 
-Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atual é resolver problemas complexos usando **Engenharia de Dados** e **Inteligência Artificial**. Gosto de criar arquiteturas que não apenas "funcionam", mas que são escaláveis e bem documentadas.
+Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atual é resolver problemas complexos usando **Engenharia de Dados**, integrações e **Inteligência Artificial**. Gosto de criar arquiteturas que não apenas "funcionam", mas que são modulares, escaláveis e bem documentadas. 
 
-* 🔭 Atualmente trabalhando em: **Orquestração de Agentes de IA (SaaS)**
+Atualmente, **busco uma oportunidade de estágio** para integrar uma equipe experiente, onde eu possa contribuir ativamente com minhas habilidades enquanto absorvo boas práticas de mercado.
+
+* 🔭 Atualmente desenvolvendo: **NexusOS (SaaS / CAIS) e Orquestração de Agentes de IA**
 * 🌱 Estudando: **Pipelines de Dados (ETL), Python Avançado e Modelagem de Dados**
-* 🐧 OS Principal: **Linux (Debian/Ubuntu)** - *Ricing enthusiast*
+* 🐧 OS Principal: **Linux (Ubuntu/Debian)** - *Ricing enthusiast*
 
 ---
 
@@ -28,13 +30,13 @@ Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atua
 **Linguagens & Scripting**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Backend & Frameworks**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+**Back-end & Integrações**
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Dados & Infra**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,14 +48,14 @@ Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atua
 
 ### 💡 Projetos em Destaque
 
-#### 🤖 Project Zero (SaaS AI Agent)
-*Um orquestrador de atendimento automatizado via WhatsApp utilizando LLMs.*
+#### 🤖 Sistema CAIS / NexusOS (SaaS AI Agent)
+*Orquestrador de atendimento automatizado via WhatsApp utilizando LLMs e Spring Boot.*
 * **O Desafio:** Transformar conversas naturais e desestruturadas em dados de CRM acionáveis.
-* **A Solução:** Pipeline de integração entre API do WhatsApp e modelo **MiniMax m2**. Implementação de **ETL em tempo real** para parsing de JSON e agendamento automático.
-* **Tech:** Python, Webhooks, LLM API, JSON Processing.
+* **A Solução:** Pipeline de integração entre API do WhatsApp e modelo **MiniMax m2**. Implementação de **ETL em tempo real** e fluxos via **n8n** para parsing de JSON e agendamento automático.
+* **Tech:** Java (Spring Boot), Python, Webhooks, n8n, LLM API.
 
-#### 🦾 VR Mechanical Arm Controller (P&D)
-*Projeto de pesquisa do NITE (Núcleo de Inovação e Tecnologia).*
+#### 🦾 VR Mechanical Arm Controller (P&D - NITE)
+*Projeto de pesquisa de Iniciação Acadêmica (Núcleo de Inovação e Tecnologia).*
 * **O Desafio:** Controlar um braço mecânico físico usando inputs de Realidade Virtual com latência mínima.
 * **A Solução:** Desenvolvimento de lógica de captura de sensores e transmissão de dados via WebSocket.
 * **Tech:** Integração Hardware-Software, C# (Unity), Protocolos de Rede.
