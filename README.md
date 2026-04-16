@@ -51,7 +51,7 @@ Atualmente, **busco uma oportunidade de estágio** para integrar uma equipe expe
 #### 🤖 Sistema CAIS / NexusOS (SaaS AI Agent)
 *Orquestrador de atendimento automatizado via WhatsApp utilizando LLMs e Spring Boot.*
 * **O Desafio:** Transformar conversas naturais e desestruturadas em dados de CRM acionáveis.
-* **A Solução:** Pipeline de integração entre API do WhatsApp e modelo **MiniMax m2**. Implementação de **ETL em tempo real** e fluxos via **n8n** para parsing de JSON e agendamento automático.
+* **A Solução:** Pipeline de integração entre API do WhatsApp e modelo **gpt4o-mini**. Implementação de **ETL em tempo real** e fluxos via **n8n** para parsing de JSON e agendamento automático.
 * **Tech:** Java (Spring Boot), Python, Webhooks, n8n, LLM API.
 
 #### 🦾 VR Mechanical Arm Controller (P&D - NITE)
