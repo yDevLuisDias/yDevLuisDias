@@ -63,7 +63,7 @@ Atualmente, **busco uma oportunidade de estágio** para integrar uma equipe expe
 #### 🏛️ Fórum Acadêmico de TI
 *Plataforma Full Stack para comunidade universitária.*
 * **Arquitetura:** API RESTful robusta com Spring Security e Banco de Dados Relacional normalizado.
-* **Tech:** Java 21, Spring Boot, PostgreSQL, Vue.js.
+* **Tech:** Java, Spring Boot, SQL, TypeScript, Vue.js.
 
 ---
 
