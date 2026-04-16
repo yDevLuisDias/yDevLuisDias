@@ -15,7 +15,7 @@
 ### 🚀 Sobre Mim
 Sou estudante do **3º Semestre de Análise e Desenvolvimento de Sistemas** (Unijorge) e um entusiasta do ecossistema **Linux**. 
 
-Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atual é resolver problemas complexos usando **Engenharia de Dados**, integrações e **Inteligência Artificial**. Gosto de criar arquiteturas que não apenas "funcionam", mas que são modulares, escaláveis e bem documentadas. 
+Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atual é resolver problemas complexos usando **Engenharia**, integrações e **Inteligência Artificial**. Gosto de criar arquiteturas que não apenas "funcionam", mas que são modulares, escaláveis e bem documentadas. 
 
 Atualmente, **busco uma oportunidade de estágio** para integrar uma equipe experiente, onde eu possa contribuir ativamente com minhas habilidades enquanto absorvo boas práticas de mercado.
 
