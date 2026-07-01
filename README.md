@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Engenheiro de software e fundador da **Nexus Tech**, focado em orquestração de Inteligência Artificial (LLMOps) e arquitetura de back-end. Atualmente, construo infraestruturas escaláveis para SaaS B2B, além de atuar no time de TI do **Senai Cimatec** e cursar Análise e Desenvolvimento de Sistemas (Unijorge).
+Engenheiro de software e fundador da **Nexus Tech**, focado em orquestração de Inteligência Artificial (LLMOps) e arquitetura de back-end. Atualmente, construo infraestruturas escaláveis para SaaS B2B, além de cursar Análise e Desenvolvimento de Sistemas (Unijorge).
 
 Minha rotina é forjada na engenharia de produção: saio da teoria para orquestrar agentes autônomos, pipelines de dados massivos e automações que geram lucro e eficiência. Gosto de criar arquiteturas resilientes em ecossistemas Java (Spring Boot) e Python, sempre rodando sobre infraestruturas robustas.
 
