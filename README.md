@@ -1,5 +1,5 @@
 # Olá, eu sou Luis Henrique! 👋
-### Desenvolvedor Back-end | Rumo à Engenharia de Dados & IA
+### Engenheiro de IA & Dados | Fundador @ Nexus Tech
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisdevhenrique)](https://www.linkedin.com/in/luisdevhenrique)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiscosta.official@gmail.com)](mailto:luiscosta.official@gmail.com)
@@ -7,25 +7,23 @@
 ---
 
 ### 🏆 Destaque
-> **Finalista do Programa de Estágio iFood GenAI (2025)**
-> Classificado no **Top 100** entre mais de **20.000 candidatos** (Top 0.5%), destacando-se por competências em lógica, arquitetura de sistemas e inovação com IA.
+> **Finalista do Programa iFood GenAI (2025)**
+> Classificado no **Top 100** entre mais de **20.000 candidatos** (Top 0.5%), destacando-se pela capacidade de construir soluções e arquiteturas reais com Inteligência Artificial Generativa.
 
 ---
 
 ### 🚀 Sobre Mim
-Sou estudante do **3º Semestre de Análise e Desenvolvimento de Sistemas** (Unijorge) e um entusiasta do ecossistema **Linux**. 
+Engenheiro de software e fundador da **Nexus Tech**, focado em orquestração de Inteligência Artificial (LLMOps) e arquitetura de back-end. Atualmente, construo infraestruturas escaláveis para SaaS B2B, além de atuar no time de TI do **Senai Cimatec** e cursar Análise e Desenvolvimento de Sistemas (Unijorge).
 
-Minha base técnica é sólida em **Java (Spring Boot)**, mas minha paixão atual é resolver problemas complexos usando **Engenharia**, integrações e **Inteligência Artificial**. Gosto de criar arquiteturas que não apenas "funcionam", mas que são modulares, escaláveis e bem documentadas. 
+Minha rotina é forjada na engenharia de produção: saio da teoria para orquestrar agentes autônomos, pipelines de dados massivos e automações que geram lucro e eficiência. Gosto de criar arquiteturas resilientes em ecossistemas Java (Spring Boot) e Python, sempre rodando sobre infraestruturas robustas.
 
-Atualmente, **busco uma oportunidade de estágio** para integrar uma equipe experiente, onde eu possa contribuir ativamente com minhas habilidades enquanto absorvo boas práticas de mercado.
-
-* 🔭 Atualmente desenvolvendo: **NexusOS (SaaS / CAIS) e Orquestração de Agentes de IA**
-* 🌱 Estudando: **Pipelines de Dados (ETL), Python Avançado e Modelagem de Dados**
-* 🐧 OS Principal: **Linux (Ubuntu/Debian)** - *Ricing enthusiast*
+* 🔭 Construindo: **Sistemas Autônomos de IA (CAIS) na Nexus Tech**
+* 🌱 Escalando: **Arquiteturas Spring Boot, Redis e LLMOps**
+* 🐧 OS Principal: **Linux (Fedora / Arch) - Ricing & Dotfiles enthusiast**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal Técnico
 
 **Linguagens & Scripting**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,27 +44,27 @@ Atualmente, **busco uma oportunidade de estágio** para integrar uma equipe expe
 
 ---
 
-### 💡 Projetos em Destaque
+### 💡 Engenharia em Produção (Destaques)
 
-#### 🤖 Sistema CAIS / NexusOS (SaaS AI Agent)
-*Orquestrador de atendimento automatizado via WhatsApp utilizando LLMs e Spring Boot.*
-* **O Desafio:** Transformar conversas naturais e desestruturadas em dados de CRM acionáveis.
-* **A Solução:** Pipeline de integração entre API do WhatsApp e modelo **gpt4o-mini**. Implementação de **ETL em tempo real** e fluxos via **n8n** para parsing de JSON e agendamento automático.
-* **Tech:** Java (Spring Boot), Python, Webhooks, n8n, LLM API.
+#### 🤖 Sistema CAIS / Nexus Tech (SaaS AI Agent)
+*Orquestrador B2B de atendimento e vendas utilizando LLMs, Redis e Spring Boot.*
+* **O Desafio:** Transformar interações não estruturadas de leads em inteligência de negócios automatizada com latência mínima e validação contra alucinações.
+* **A Solução:** Pipeline híbrido escalável. Utilização de **n8n** para prototipagem rápida e fluxos de webhook, migrando para uma **API Core em Java** para centralizar regras de negócios e persistência de contexto em tempo real.
+* **Tech:** Java (Spring Boot), Python, Redis, n8n, OpenAI API, Docker.
+
+#### 🏛️ [Bank-Account-API](link-aqui)
+*Arquitetura corporativa em Java focada em segurança transacional.*
+* **Arquitetura:** API RESTful robusta modelada com Spring Security, BCrypt, persistência via JPA e endpoints blindados, validando a base sólida em engenharia de software tradicional.
+* **Tech:** Java, Spring Boot, SQL.
 
 #### 🦾 VR Mechanical Arm Controller (P&D - NITE)
-*Projeto de pesquisa de Iniciação Acadêmica (Núcleo de Inovação e Tecnologia).*
-* **O Desafio:** Controlar um braço mecânico físico usando inputs de Realidade Virtual com latência mínima.
-* **A Solução:** Desenvolvimento de lógica de captura de sensores e transmissão de dados via WebSocket.
+*Pesquisa de Iniciação Acadêmica (Núcleo de Inovação e Tecnologia).*
+* **O Desafio:** Controlar um braço mecânico físico através de inputs de Realidade Virtual.
+* **A Solução:** Desenvolvimento de lógica de captura de sensores e transmissão de dados de baixa latência via WebSockets.
 * **Tech:** Integração Hardware-Software, C# (Unity), Protocolos de Rede.
-
-#### 🏛️ Fórum Acadêmico de TI
-*Plataforma Full Stack para comunidade universitária.*
-* **Arquitetura:** API RESTful robusta com Spring Security e Banco de Dados Relacional normalizado.
-* **Tech:** Java, Spring Boot, SQL, TypeScript, Vue.js.
 
 ---
 
 <div align="center">
-  <sub>Feito com ☕ e Linux por Luis Henrique</sub>
+  <sub>Arquitetado com ☕ e Linux por Luis Henrique</sub>
 </div>
