@@ -29,7 +29,6 @@ Fundador da **Nexus OS** e estudante de Análise e Desenvolvimento de Sistemas (
 ### 💼 Experiência profissional
 
 **Fundador & Engenheiro de IA — Nexus OS**
-*(atual)*
 
 Fundei a Nexus OS e lidero o desenvolvimento do **CAIS**, um agente de IA autônomo que atende via WhatsApp com respostas personalizadas, arquitetura RAG e banco de dados PostgreSQL. O produto é versátil o suficiente para atender segmentos como construtoras, imobiliárias e barbearias, entre outros.
 
