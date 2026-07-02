@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou Luis Henrique 👋
-### Engenheiro de Software focado em IA & Dados
+### Engenheiro de Software focado em IA & Dados | Nexus OS
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisdevhenrique)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:luiscosta.official@gmail.com)
@@ -18,11 +18,27 @@
 
 ### 🚀 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (Unijorge). Trabalho na fronteira entre **backend, dados e IA aplicada**: construo pipelines que transformam dados brutos e não estruturados em informação útil para o negócio, e APIs robustas com Java/Spring Boot.
+Fundador da **Nexus OS** e estudante de Análise e Desenvolvimento de Sistemas (Unijorge). Trabalho na fronteira entre **backend, dados e IA aplicada**: construo pipelines que transformam dados brutos e não estruturados em informação útil para o negócio, e APIs robustas com Java/Spring Boot.
 
-- 🔭 Construindo agentes autônomos de IA e pipelines de dados na Nexus Tech
+- 🔭 Construindo agentes autônomos de IA e pipelines de dados na Nexus OS
 - 🌱 Aprofundando em Spring Boot, LLMOps e arquiteturas orientadas a dados
 - 💬 Fale comigo sobre Java, Spring, IA generativa aplicada a negócio ou engenharia de dados
+
+---
+
+### 💼 Experiência profissional
+
+**Fundador & Engenheiro de IA — Nexus OS**
+*(atual)*
+
+Fundei a Nexus OS e lidero o desenvolvimento do **CAIS**, um agente de IA autônomo que atende via WhatsApp com respostas personalizadas, arquitetura RAG e banco de dados PostgreSQL. O produto é versátil o suficiente para atender segmentos como construtoras, imobiliárias e barbearias, entre outros.
+
+- 🤖 **MLOps & LLMOps**: orquestração de modelos (OpenAI, Gemini Flash) em produção, com foco em respostas contextualizadas e confiáveis
+- ⚙️ **RPA & BPM**: automação de processos de negócio ponta a ponta, integrando fluxos via **n8n**
+- 🧠 **RAG**: recuperação de contexto sobre base própria em PostgreSQL para personalizar as respostas do agente
+- 🔌 **Backend & Integrações**: APIs REST/HTTP com Java e Spring, conectando o agente a diferentes canais e sistemas do cliente
+
+`Java` `Spring` `OpenAI` `Gemini Flash` `n8n` `RAG` `PostgreSQL` `RESTful APIs`
 
 ---
 
