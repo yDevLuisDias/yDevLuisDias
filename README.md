@@ -54,16 +54,6 @@ Fundei a Nexus OS e lidero o desenvolvimento do **CAIS**, um agente de IA autôn
 
 ---
 
-<tr>
-<td width="50%" valign="top">
-
-**⚡ [AI-Driver ETL](https://github.com/yDevLuisDias/AI-Driver-ETL)**
-
-Pipeline de ETL que usa **Spring AI + OpenAI** para extrair dados estruturados de mensagens de texto livre e classificar intenção de compra, automatizando a qualificação de leads.
-
-`Java` `Spring Boot` `Spring AI` `PostgreSQL`
-
-
 ### 📌 Projetos em destaque
 
 <table>
