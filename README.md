@@ -26,7 +26,7 @@ Fundador da **Nexus OS** e estudante de Análise e Desenvolvimento de Sistemas (
 
 ---
 
-### 💼 Experiência profissional
+### 💼 Experiência profissional [CAIS](https://github.com/yDevLuisDias/CAIS---NEXUS-OS)
 
 **Fundador & Engenheiro de IA — Nexus OS**
 
@@ -53,6 +53,16 @@ Fundei a Nexus OS e lidero o desenvolvimento do **CAIS**, um agente de IA autôn
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+<tr>
+<td width="50%" valign="top">
+
+**⚡ [AI-Driver ETL](https://github.com/yDevLuisDias/AI-Driver-ETL)**
+
+Pipeline de ETL que usa **Spring AI + OpenAI** para extrair dados estruturados de mensagens de texto livre e classificar intenção de compra, automatizando a qualificação de leads.
+
+`Java` `Spring Boot` `Spring AI` `PostgreSQL`
+
 
 ### 📌 Projetos em destaque
 
