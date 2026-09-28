@@ -142,27 +142,16 @@ flowchart LR
 
 ## 📌 Projetos
 
-<sub>🇺🇸 *Featured projects: click a card to open the repo*</sub>
+<sub>🇺🇸 *Featured projects: click a name to open the repo*</sub>
 
-<div align="center">
-
-<a href="https://github.com/yDevLuisDias/CAIS---NEXUS-OS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yDevLuisDias&repo=CAIS---NEXUS-OS&theme=tokyonight&hide_border=true&show_owner=false" alt="CAIS" /></a>
-<a href="https://github.com/yDevLuisDias/AI-Driver-ETL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yDevLuisDias&repo=AI-Driver-ETL&theme=tokyonight&hide_border=true&show_owner=false" alt="AI-Driver ETL" /></a>
-
-<a href="https://github.com/yDevLuisDias/Bank-Account"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yDevLuisDias&repo=Bank-Account&theme=tokyonight&hide_border=true&show_owner=false" alt="Bank Account" /></a>
-<a href="https://github.com/yDevLuisDias/bio_code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yDevLuisDias&repo=bio_code&theme=tokyonight&hide_border=true&show_owner=false" alt="BioCode" /></a>
-
-</div>
-
-<br>
-
-| Projeto | O que faz · <sub>🇺🇸 *what it does*</sub> | Stack |
-|---|---|---|
-| ⚡ **[AI-Driver ETL](https://github.com/yDevLuisDias/AI-Driver-ETL)** | Extrai dados estruturados de texto livre e classifica intenção de compra para qualificar leads. <br><sub>🇺🇸 *Extracts structured data from free text and classifies purchase intent to qualify leads.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| 🏦 **[Bank Account](https://github.com/yDevLuisDias/Bank-Account)** | API REST bancária com Spring Security, JPA e arquitetura em camadas (core/infra). <br><sub>🇺🇸 *Banking REST API with Spring Security, JPA and a layered architecture.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) |
-| 📄 **[CSV Processor](https://github.com/yDevLuisDias/CSV-Processor)** | Lê, valida e exporta CSV, separando registros válidos de inválidos. <br><sub>🇺🇸 *Reads, validates and exports CSV, splitting valid from invalid records.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/OOP-555555?style=flat-square) |
-| 🌍 **[BioCode](https://github.com/yDevLuisDias/bio_code)** | Jogo educativo que ensina lógica de programação com missões de sustentabilidade (COP30). <br><sub>🇺🇸 *Educational game teaching programming logic through sustainability missions.*</sub> | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| 🚧 **[ETL-Process](https://github.com/yDevLuisDias/ETL-Process)** | *Em desenvolvimento:* PoC de ETL com Spring Batch para CSV, JSON e XML. <br><sub>🇺🇸 *WIP: Spring Batch ETL proof of concept for CSV, JSON and XML.*</sub> | ![](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-yellow?style=flat-square) |
+| Projeto | O que faz · <sub>🇺🇸 *what it does*</sub> | Stack | Atividade |
+|---|---|---|---|
+| 🤖 **[CAIS · Nexus OS](https://github.com/yDevLuisDias/CAIS---NEXUS-OS)** | Agente de IA no WhatsApp com RAG sobre PostgreSQL, em produção com clientes reais. <br><sub>🇺🇸 *WhatsApp AI agent with RAG over PostgreSQL, live with real customers.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![](https://img.shields.io/github/last-commit/yDevLuisDias/CAIS---NEXUS-OS?style=flat-square&label=%C3%BAltimo%20commit&color=6DB33F&labelColor=1f2937) |
+| ⚡ **[AI-Driver ETL](https://github.com/yDevLuisDias/AI-Driver-ETL)** | Extrai dados estruturados de texto livre e classifica intenção de compra para qualificar leads. <br><sub>🇺🇸 *Extracts structured data from free text and classifies purchase intent to qualify leads.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![](https://img.shields.io/github/last-commit/yDevLuisDias/AI-Driver-ETL?style=flat-square&label=%C3%BAltimo%20commit&color=6DB33F&labelColor=1f2937) |
+| 🏦 **[Bank Account](https://github.com/yDevLuisDias/Bank-Account)** | API REST bancária com Spring Security, JPA e arquitetura em camadas (core/infra). <br><sub>🇺🇸 *Banking REST API with Spring Security, JPA and a layered architecture.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) | ![](https://img.shields.io/github/last-commit/yDevLuisDias/Bank-Account?style=flat-square&label=%C3%BAltimo%20commit&color=6DB33F&labelColor=1f2937) |
+| 📄 **[CSV Processor](https://github.com/yDevLuisDias/CSV-Processor)** | Lê, valida e exporta CSV, separando registros válidos de inválidos. <br><sub>🇺🇸 *Reads, validates and exports CSV, splitting valid from invalid records.*</sub> | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/OOP-555555?style=flat-square) | ![](https://img.shields.io/github/last-commit/yDevLuisDias/CSV-Processor?style=flat-square&label=%C3%BAltimo%20commit&color=6DB33F&labelColor=1f2937) |
+| 🌍 **[BioCode](https://github.com/yDevLuisDias/bio_code)** | Jogo educativo que ensina lógica de programação com missões de sustentabilidade (COP30). <br><sub>🇺🇸 *Educational game teaching programming logic through sustainability missions.*</sub> | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) | ![](https://img.shields.io/github/last-commit/yDevLuisDias/bio_code?style=flat-square&label=%C3%BAltimo%20commit&color=6DB33F&labelColor=1f2937) |
+| 🚧 **[ETL-Process](https://github.com/yDevLuisDias/ETL-Process)** | *Em desenvolvimento:* PoC de ETL com Spring Batch para CSV, JSON e XML. <br><sub>🇺🇸 *WIP: Spring Batch ETL proof of concept for CSV, JSON and XML.*</sub> | ![](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/status-em_constru%C3%A7%C3%A3o-yellow?style=flat-square) | ![](https://img.shields.io/github/last-commit/yDevLuisDias/ETL-Process?style=flat-square&label=%C3%BAltimo%20commit&color=6DB33F&labelColor=1f2937) |
 
 ---
 
@@ -172,19 +161,15 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yDevLuisDias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDevLuisDias&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=yDevLuisDias&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yDevLuisDias&theme=tokyo-night&hide_border=true&area=true&custom_title=Commits%20e%20contribui%C3%A7%C3%B5es%20%C2%B7%20Commits%20%26%20contributions" alt="Activity graph" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yDevLuisDias&theme=tokyonight" alt="Profile details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Commits, PRs, issues e stars" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yDevLuisDias&theme=tokyonight&utcOffset=-3" width="49%" alt="Horário mais produtivo" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yDevLuisDias&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Repos por linguagem" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Linguagens por commit" />
 
 </div>
 
