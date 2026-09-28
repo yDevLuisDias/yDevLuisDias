@@ -27,15 +27,67 @@
 
 ## 👨‍💻 Sobre mim
 
-Fundador da **Nexus OS** e estudante de Análise e Desenvolvimento de Sistemas na **Unijorge**. Trabalho na fronteira entre **backend, dados e IA aplicada**: transformo dados brutos e não estruturados em informação útil para o negócio e entrego APIs robustas com Java e Spring Boot.
+Fundador da **Nexus OS**, estudante de Análise e Desenvolvimento de Sistemas (**Unijorge**) e de Licenciatura em Matemática (**IFBA**). Trabalho na fronteira entre **backend, dados e IA aplicada**: transformo dados brutos e não estruturados em informação útil para o negócio e entrego APIs robustas com Java e Spring Boot.
 
-<sub>🇺🇸 *Founder of Nexus OS and Systems Analysis & Development student. I work at the intersection of backend, data and applied AI: turning raw, unstructured data into business value and shipping robust Java/Spring Boot APIs.*</sub>
+<sub>🇺🇸 *Founder of Nexus OS, studying Systems Analysis & Development and Mathematics Education. I work at the intersection of backend, data and applied AI: turning raw, unstructured data into business value and shipping robust Java/Spring Boot APIs.*</sub>
 
 | | |
 |---|---|
 | 🔭 **Construindo agora** | Agentes autônomos de IA e pipelines de dados na Nexus OS |
 | 🌱 **Aprofundando em** | Spring Boot, orquestração de LLMs e arquiteturas orientadas a dados |
 | 💬 **Converse comigo sobre** | Java, Spring, IA generativa aplicada a negócio e engenharia de dados |
+
+---
+
+## 🎓 Formação
+
+<sub>🇺🇸 *Education*</sub>
+
+| Curso | Instituição | Status |
+|---|---|---|
+| 💻 Análise e Desenvolvimento de Sistemas | Unijorge | Cursando |
+| 📐 Licenciatura em Matemática | IFBA | Cursando |
+
+Estudo tecnologia e matemática ao mesmo tempo: a matemática me dá a base para entender *por que* os modelos funcionam, e a engenharia me permite colocá-los em produção.
+
+<sub>🇺🇸 *I study technology and mathematics side by side: math gives me the foundation to understand why models work, and engineering lets me put them into production.*</sub>
+
+---
+
+## 🌋 Sismos + IA · projeto de iniciativa própria
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SeisBench](https://img.shields.io/badge/SeisBench-0B3D91?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+</div>
+
+Nascido dos estudos de cálculo e ondas sísmicas na licenciatura, este projeto busca construir um **sistema de detecção e alerta precoce** baseado em IA, treinando um modelo próprio sobre dados sísmicos públicos. O foco é segurança de estruturas de risco, como **barragens de rejeito** e áreas de **sismicidade induzida por mineração**.
+
+<sub>🇺🇸 *Born from calculus and seismic-wave studies, this project aims to build an AI-based early detection and warning system, training a custom model on public seismic data. The focus is the safety of high-risk structures such as tailings dams and mining-induced seismicity.*</sub>
+
+```mermaid
+flowchart LR
+    A[🌍 Dados sísmicos públicos<br/>SeisBench] --> B[🧹 Limpeza e preparo<br/>CSV · 13 mil+ registros]
+    B --> C[🧠 Treinamento<br/>modelo de detecção]
+    C --> D[📈 Avaliação]
+    D --> E[🚨 Alerta precoce<br/><i>em desenvolvimento</i>]
+```
+
+<details>
+<summary><b>📍 Estágio atual / Current status</b></summary>
+<br>
+
+- ✅ Base de **mais de 13 mil registros** sísmicos em CSV, obtidos via SeisBench
+- ✅ Modelo de IA com acesso a essa base
+- 🚧 Treinamento, avaliação e alertas em desenvolvimento
+
+<sub>🇺🇸 *13,000+ seismic records via SeisBench · model connected to the dataset · training, evaluation and alerting in progress.*</sub>
+
+</details>
 
 ---
 
