@@ -281,43 +281,6 @@ flowchart LR
 
 </details>
 
-## 📊 GitHub em números
-
-<sub>🇺🇸 *GitHub at a glance: commits, pull requests, issues and contributions*</sub>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yDevLuisDias&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yDevLuisDias&theme=tokyonight" alt="Perfil" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Commits, PRs, issues e stars" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yDevLuisDias&theme=tokyonight&utcOffset=-3" width="49%" alt="Horário mais produtivo" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Repos por linguagem" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yDevLuisDias&theme=tokyonight" width="49%" alt="Linguagens por commit" />
-
-</div>
-
-### ⚡ Atividade recente
-
-<sub>🇺🇸 *Latest activity (updated automatically)*</sub>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yDevLuisDias/yDevLuisDias/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yDevLuisDias/yDevLuisDias/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/yDevLuisDias/yDevLuisDias/output/github-snake.svg" />
-</picture>
-
-</div>
-
 ## 🤝 Vamos construir algo?
 
 Tem um processo que dá para automatizar com IA? Uma vaga? Uma ideia? Fico feliz em conversar.
