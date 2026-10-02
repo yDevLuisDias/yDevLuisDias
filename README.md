@@ -214,41 +214,6 @@ Jogo educativo em JavaScript puro que ensina lógica de programação com missõ
 
 </div>
 
-## 🌋 Sismos + IA
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SeisBench](https://img.shields.io/badge/SeisBench-0B3D91?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
-</div>
-
-Projeto de iniciativa própria, nascido dos estudos de cálculo e ondas sísmicas na licenciatura: um **sistema de detecção e alerta precoce** baseado em IA, treinando um modelo próprio sobre dados sísmicos públicos. O foco é a segurança de estruturas de risco, como **barragens de rejeito** e áreas de **sismicidade induzida por mineração**.
-
-<sub>🇺🇸 *Self-initiated project born from calculus and seismic-wave studies: an AI-based early detection and warning system, training a custom model on public seismic data, focused on tailings dams and mining-induced seismicity.*</sub>
-
-```mermaid
-flowchart LR
-    A[🌍 Dados sísmicos públicos<br/>SeisBench] --> B[🧹 Limpeza e preparo<br/>CSV · 13 mil+ registros]
-    B --> C[🧠 Treinamento<br/>modelo de detecção]
-    C --> D[📈 Avaliação]
-    D --> E[🚨 Alerta precoce<br/><i>em desenvolvimento</i>]
-```
-
-<details>
-<summary><b>📍 Estágio atual / Current status</b></summary>
-<br>
-
-- ✅ Base de **mais de 13 mil registros** sísmicos em CSV, obtidos via SeisBench
-- ✅ Modelo de IA com acesso a essa base
-- 🚧 Treinamento, avaliação e alertas em desenvolvimento
-
-<sub>🇺🇸 *13,000+ seismic records via SeisBench · model connected to the dataset · training, evaluation and alerting in progress.*</sub>
-
-</details>
-
 ## 🤖 Nexus OS · CAIS
 
 **Fundador & Engenheiro de IA**
