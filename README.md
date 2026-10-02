@@ -128,21 +128,6 @@ Agente de IA no WhatsApp com **RAG sobre PostgreSQL**, em produção com cliente
 </td>
 <td width="50%" valign="top">
 
-### [🌋 Sismos + IA](#-sismos--ia)
-
-Sistema de **detecção e alerta precoce** de eventos sísmicos. *Em desenvolvimento.*
-
-<sub>🇺🇸 *AI early detection and warning for seismic events, focused on tailings dams. In development.*</sub>
-
-`Python` `Machine Learning`
-
-![](https://img.shields.io/badge/status-em_desenvolvimento-yellow?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [⚡ AI-Driver ETL](https://github.com/yDevLuisDias/AI-Driver-ETL)
 
 Extrai dados estruturados de texto livre e classifica **intenção de compra** com Spring AI + OpenAI, automatizando a qualificação de leads.
