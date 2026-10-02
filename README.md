@@ -130,11 +130,11 @@ Agente de IA no WhatsApp com **RAG sobre PostgreSQL**, em produção com cliente
 
 ### [🌋 Sismos + IA](#-sismos--ia)
 
-Sistema de **detecção e alerta precoce** de eventos sísmicos com IA, focado em barragens de rejeito. *Em desenvolvimento.*
+Sistema de **detecção e alerta precoce** de eventos sísmicos. *Em desenvolvimento.*
 
 <sub>🇺🇸 *AI early detection and warning for seismic events, focused on tailings dams. In development.*</sub>
 
-`Python` `SeisBench` `Machine Learning`
+`Python` `Machine Learning`
 
 ![](https://img.shields.io/badge/status-em_desenvolvimento-yellow?style=flat-square)
 
